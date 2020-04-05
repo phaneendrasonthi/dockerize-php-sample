@@ -1,4 +1,5 @@
-# dockerize-php-sample
+# docker-php-sample
+
 Run PHP Sample Application on Docker Container
 
 This is a sample application used in Dockerizing PHP Application demo.
