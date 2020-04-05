@@ -6,7 +6,7 @@ It accepts InstanceCount, InstanceName, AccessKeyID & SecretAccessKey as input p
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Dockerize PHP Sample</title>
+        <title>Docker-php-application by phaneendra</title>
         <!-- Bootstrap core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <!-- Bootstrap theme -->
